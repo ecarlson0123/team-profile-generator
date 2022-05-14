@@ -2,8 +2,7 @@ const { promptManager } = require("./src/Questions");
 
 
 const runApp = () => {
-    promptManager();
-    generateHTML();
+    promptManager()
 }
 
 
